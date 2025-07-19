@@ -32,6 +32,5 @@
 
 
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/2f28ad7c-b9ef-4c67-8623-05c8db976571" />
 
-
-<img width="1920" height="1080" alt="1 (1)" src="https://github.com/user-attachments/assets/ab64e249-7172-4971-8654-36736e25e17b" />
